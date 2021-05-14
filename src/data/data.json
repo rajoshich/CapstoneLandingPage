@@ -1,12 +1,12 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Hearing Aid App",
+        "paragraph": "Sponsered by: Sound Sustainability"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "As four UW iSchool students who have strong interest in accessibility, our group wishes to help people who try to find hearing sustainable solutions and who are willing to learn more about hearing health and achieving helpful resources to prevent hearing loss in the future. In partnership with our sponsor Sound Sustainability, a Seattle-based medical device startup founded by a hearing-impaired Army veteran Robert White, we hope hearing-impaired individuals achieve a better understanding of hearing health and information about the necessary resources so that they can have an improved quality of life.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -21,37 +21,35 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
+        "icon": "fa fa-volume-up",
+        "name": "Device Control",
+        "text": "Control the volumn and status of your hearing aid from the ease of your smartphone with additional features like noise reduction."
+    },
+    {
+        "icon": "fa fa-map-marker",
+        "name": "Device Tracking",
+        "text": "Connect your devices using bluetooth for an easy set up process and track your device's location in the app."
+    },
+    {
+        "icon": "fa fa-group",
+        "name": "User Dashboard",
+        "text": "See all your information on a consolidated page and view your information across the application and other Sound Sustainability initiatives."
+    },
+    {
+        "icon": "fa fa-magic",
+        "name": "Marketplace and Support",
+        "text": "Buy a device without leaving the app and receive support regarding hearing aids from the app itself."
+    },
+    {
+        "icon": "fa fa-bullseye",
+        "name": "Summarized Statistics",
+        "text": "View summarized statistics about your hearing aid device usage like average usage time and volume."
+    },
+    {
+        "icon": "fa fa-phone",
+        "name": "Audiologist Contacts",
+        "text": "Contact experienced Audiologists from the application itself and share details from your profile if needed."
+    }
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -86,22 +84,22 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Rajoshi Chakravarty",
+            "job": "Full Stack Developer"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Fran Đukić",
+            "job": "Full Stack Developer"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Carol Wang",
+            "job": "UI/UX Designer"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Sunny Li",
+            "job": "UI/UX Designer"
         }
     ],
     "Contact": {
@@ -113,24 +111,24 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-volume-up",
+            "title": "Volume Control",
+            "text": "Control the volumn of your hearing aid from the ease of your smartphone with additional features like noise reduction."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-bluetooth",
+            "title": "Device Tracking",
+            "text": "Connect your devices using bluetooth for an easy set up process and track your device's location in the app."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "User Dashboard",
+            "text": "See all your information on a consolidated page and view summarized statistics about your hearing aid device usage."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Marketplace and Support",
+            "text": "Buy a device without leaving the app and receive support regarding hearing aids or other hearing issues from the app itself."
         }
     ]
 }
