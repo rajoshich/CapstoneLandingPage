@@ -28,7 +28,7 @@ export const Testimonials = (props) => {
     <div id='testimonials'>
       <div className='container'>
         <div className='section-title text-center'>
-          <h2>What our clients say</h2>
+          <h2>How Our Hearing Aids Work</h2>
         </div>
         <div className='row'>
           {props.data
@@ -40,8 +40,8 @@ export const Testimonials = (props) => {
                       <img src={d.img} alt='' />{' '}
                     </div>
                     <div className='testimonial-content'>
-                      <p>"{d.text}"</p>
-                      <div className='testimonial-meta'> - {d.name} </div>
+                      <p>{d.text}</p>
+                      {/* <div className='testimonial-meta'> - {d.name} </div> */}
                     </div>
                   </div>
                 </div>

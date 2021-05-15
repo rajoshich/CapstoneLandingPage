@@ -186,7 +186,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/intro-bg.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -433,12 +433,12 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-	padding: 100px 0 60px 0;
+	padding: 50px 0 60px 0;
 	background: linear-gradient(to right, #FFC459 0%, #F28F38 100%);
 	color: rgba(255,255,255,.75);
 }
 #contact .section-title {
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 #contact .section-title p {
 	font-size: 16px;
@@ -535,8 +535,8 @@ color: #777;
 }
 #contact .social {
 	border-top: 1px solid rgba(255,255,255,0.15);
-	padding-top: 50px;
-	margin-top: 50px;
+	padding-top: 5px;
+	margin-top: 0px;
 	text-align: center;
 }
 #contact .social ul li {
