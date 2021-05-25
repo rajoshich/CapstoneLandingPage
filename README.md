@@ -11,11 +11,10 @@ Landing Page for iSchool Capstone 2021 submission.
 
 
 ------
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
+### <a href="https://ischool-capstone.web.app"/>LIVE LINK</a> 
 
 ## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+This is the landing page for Team Crimson's Hearing Aid App for UW iSchool Capstone 2021. By visiting the link above you can view our live page. To get the code to test on your local machine, follow the instructions below.
 
 ## Make it Yours!
 ### 1. Preps
