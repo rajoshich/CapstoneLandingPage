@@ -21,11 +21,14 @@ This is the landing page for Team Crimson's Hearing Aid App for UW iSchool Capst
 ## Make it Yours!
 ### 1. Preps
 Install Git including the Git Bash tool from here https://git-scm.com/downloads
+
 Install npm from here https://www.npmjs.com/get-npm
 
 ### 2. Setting up the local directory
 Go above to the green button that says "code" and copy from there the SSH code.
+
 Open Git Bash, travel to your desired directory, then type "git clone" and then paste the SSH code.
+
 After fetching the code from Github, go into the new directory, then type "npm install."
 
 ### 3. Deploy the page
